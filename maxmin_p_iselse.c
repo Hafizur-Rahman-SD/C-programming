@@ -11,7 +11,7 @@ int maximum( int x, int y,int z){  //here we call the function and check by cond
 	int max=x;
 	if(y>max)
 	max=y;
-	if(z>max)
+	if(z>max)       //check condition.
 	max=z;
 	return max;
 }
