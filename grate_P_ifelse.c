@@ -20,7 +20,7 @@ int main (){
 		printf(" This number gread is:E+\n");
 	}
 	else {
-		printf("This number gread is: F");
+		printf("This number gread is: F");     //this is our bydefolt answer. 
 	}
 	return 0;
 }
