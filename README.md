@@ -1,2 +1,2 @@
 # C-programming
-Here is my C programming code step by step.
+Here i will write my C programming code step by step. 
