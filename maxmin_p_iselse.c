@@ -8,6 +8,7 @@ int main(){                     // main function start point.
 	printf("the maximum value is: %d", maximum(x,y,z));  // here prosses maximun and minimum value.
 }
 
+
 int maximum( int x, int y,int z){  //here we call the function and check by condition.
 	int max=x;
 	if(y>max)
