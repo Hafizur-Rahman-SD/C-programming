@@ -10,3 +10,7 @@ int number = alpha;
 printf ("Integer Value: %d", number);
 return 0;
 }
+
+
+/*Output Characture Value: a 
+Integer Value: 97*/
