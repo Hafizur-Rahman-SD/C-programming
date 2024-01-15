@@ -17,7 +17,7 @@ Integer Value: 97*/
 
 //Ecplict Conversion In C Programming language. 
 
-In this type we manually convert value on type to another  type. 
+//In this type we manually convert value on type to another  type. 
 
   #include<stdio.h>
   int main(){
