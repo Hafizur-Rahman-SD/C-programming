@@ -21,6 +21,9 @@ Integer Value: 97*/
 
   #include<stdio.h>
   int main(){
-
-
+int number =35;
+    printf (" IntegerNumber: %d\n", number);
+    double Value =(double) number ;
+    printf("Bouble Value: %lf, value);   
+return 0;
 }
