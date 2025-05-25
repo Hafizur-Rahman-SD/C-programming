@@ -2,6 +2,7 @@
 
 This repository contains various C programs covering different concepts, algorithms, and data structures. The goal of this collection is to demonstrate foundational concepts and provide practical examples for beginners and intermediate learners of C programming.
 
+
 ---
 
 ##  Topics Covered:
